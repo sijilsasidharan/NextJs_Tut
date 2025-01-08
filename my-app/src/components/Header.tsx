@@ -1,4 +1,3 @@
-import React from "react";
 import { NavButton } from "./NavBar";
 import { File, HomeIcon, UserRound } from "lucide-react";
 import Link from "next/link";
